@@ -1,4 +1,4 @@
-# Arch Linux Docker Tool Chain Image
+# Arch Linux Docker PyLint Image
 
 [![](https://images.microbadger.com/badges/image/vcatechnology/arch-pylint.svg)](http://microbadger.com/images/vcatechnology/arch-pylint "Image Layers") [![](https://images.microbadger.com/badges/version/vcatechnology/arch.svg)](http://microbadger.com/images/vcatechnology/arch-pylint "Image Version") [![](https://images.microbadger.com/badges/license/vcatechnology/arch-pylint.svg)](https://microbadger.com/images/vcatechnology/arch-pylint "Image License")  [![](https://images.microbadger.com/badges/commit/vcatechnology/arch-pylint.svg)](https://github.com/vcatechnology/docker-arch-pylint "Image Commit")
 
