@@ -19,4 +19,9 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
 
 # Install the packages needed for the VCA tool chain
 RUN sudo vca-install-package \
-  python-pylint
+  python-pylint \
+  python-pip \
+  python-pytz \
+  python-requests
+
+RUN pip install --user semver
