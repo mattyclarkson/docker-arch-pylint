@@ -24,4 +24,4 @@ RUN sudo vca-install-package \
   python-pytz \
   python-requests
 
-RUN pip install --user semver
+RUN pip install --user semver pylint-quotes
